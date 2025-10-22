@@ -63,6 +63,23 @@ body {
     display: block;
 }
 
+section.reseaux{
+    position: fixed;
+    top: 770px;   
+}
+img.Facebook{
+    width: 5%;
+    z-index: 1;
+}
+
+img.WhatsApp{
+    width: 5%;
+}
+
+
+
+
+
 .reseaux-footer {
     position: absolute;
     left: 20px;
